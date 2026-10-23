@@ -6,6 +6,8 @@ Acquisitions director in rental housing (BFR, SFR, multifamily) who builds AI sy
 
 ## Projects
 
+If you only open two, start with the underwriting agent, which turns deal documents into a summary and model inputs, and the Rental Market Data connector, which is published in Claude's directory.
+
 | Project | What it does | Live | Code |
 |---|---|---|---|
 | Supply database | Collects stormwater filings, permits and planning cases from 254 government feeds across nine metros, classifies them with a language model, and connects related filings into projects. | [Supply database](https://www.hermanchan.ai/supply-database/) | [supply-pipeline](https://github.com/hermanchanai/supply-pipeline) |
